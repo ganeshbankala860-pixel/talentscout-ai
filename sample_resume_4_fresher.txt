@@ -1,0 +1,165 @@
+ANANYA REDDY
+Entry-Level Python Developer | Fresh Graduate
+
+📧 Email: ananya.reddy2024@gmail.com
+📱 Phone: +91-7654321098
+🔗 LinkedIn: linkedin.com/in/ananyareddy2024
+💻 GitHub: github.com/ananya-codes
+📍 Location: Hyderabad, Telangana, India
+🌐 Portfolio: ananyareddy.netlify.app
+
+═══════════════════════════════════════════════════════════════════
+
+CAREER OBJECTIVE
+═══════════════════════════════════════════════════════════════════
+Enthusiastic and motivated Computer Science graduate seeking an entry-level Python 
+Developer position to leverage my programming skills, academic projects, and internship 
+experience. Eager to contribute to innovative projects while continuously learning and 
+growing in a dynamic tech environment. Strong foundation in Python, web development, 
+and data structures with a passion for solving real-world problems through code.
+
+═══════════════════════════════════════════════════════════════════
+TECHNICAL SKILLS
+═══════════════════════════════════════════════════════════════════
+Programming Languages:  Python (Intermediate), JavaScript (Basic), C (Basic), SQL
+Python Libraries:       Pandas, NumPy, Matplotlib, Requests, BeautifulSoup, Flask
+Web Technologies:       HTML5, CSS3, JavaScript, Bootstrap, RESTful APIs
+Databases:              MySQL, SQLite, PostgreSQL (Basic)
+Tools & Platforms:      Git, GitHub, VS Code, Jupyter Notebook, Postman, Linux (Ubuntu)
+Cloud Services:         AWS (Basic - EC2, S3), Heroku
+Concepts:               Object-Oriented Programming, Data Structures, Algorithms,
+                        Database Management, Web Scraping, API Development
+
+Soft Skills:            Problem-solving, Quick learner, Team collaboration, 
+                        Time management, Communication, Adaptability
+
+═══════════════════════════════════════════════════════════════════
+EDUCATION
+═══════════════════════════════════════════════════════════════════
+Bachelor of Technology (B.Tech) in Computer Science and Engineering
+Osmania University, Hyderabad, Telangana
+Graduated: June 2024 | CGPA: 8.2/10.0
+
+Relevant Coursework:
+• Python Programming            • Data Structures & Algorithms
+• Database Management Systems   • Web Technologies
+• Object-Oriented Programming   • Software Engineering
+• Operating Systems             • Computer Networks
+• Cloud Computing               • Machine Learning Fundamentals
+
+Final Year Project:
+"Student Performance Prediction System using Machine Learning"
+• Developed a web application to predict student performance using historical academic data
+• Implemented Random Forest and Decision Tree algorithms with 87% accuracy
+• Tech Stack: Python, Flask, Scikit-learn, Pandas, HTML/CSS, SQLite
+• GitHub: github.com/ananya-codes/student-predictor
+
+═══════════════════════════════════════════════════════════════════
+INTERNSHIP EXPERIENCE
+═══════════════════════════════════════════════════════════════════
+
+PYTHON DEVELOPER INTERN | CodeCraft Technologies | Hyderabad, India
+January 2024 - May 2024 (5 months)
+
+• Worked in a team of 3 interns on developing internal automation tools using Python
+• Created web scraping scripts using BeautifulSoup and Requests to collect data from 
+  50+ websites, saving 10+ hours of manual work per week
+• Built a Flask-based REST API for employee attendance tracking system
+• Wrote unit tests using pytest achieving 75% code coverage
+• Collaborated with senior developers through code reviews and pair programming
+• Learned Agile methodology through participation in daily standups and sprint planning
+• Technologies: Python, Flask, BeautifulSoup, Pandas, MySQL, Git, Postman
+
+Key Achievement:
+• Developed an automated report generation script that reduced monthly reporting time 
+  from 8 hours to 30 minutes
+
+═══════════════════════════════════════════════════════════════════
+ACADEMIC PROJECTS
+═══════════════════════════════════════════════════════════════════
+
+1. EXPENSE TRACKER WEB APPLICATION (July 2023 - September 2023)
+   • Built a personal finance management web app using Flask, SQLite, and Bootstrap
+   • Features: User authentication, expense categorization, budget setting, visual reports
+   • Implemented data visualization using Chart.js for expense analytics
+   • Deployed on Heroku with PostgreSQL database
+   • Tech Stack: Python, Flask, SQLite, HTML/CSS, Bootstrap, Chart.js
+   • GitHub: github.com/ananya-codes/expense-tracker
+   • Live Demo: expense-track-app.herokuapp.com
+
+2. COVID-19 DATA ANALYSIS DASHBOARD (March 2023 - April 2023)
+   • Created an interactive dashboard to visualize COVID-19 statistics across Indian states
+   • Fetched real-time data from public APIs and performed data analysis using Pandas
+   • Generated insights and trends using Matplotlib and Seaborn
+   • Tech Stack: Python, Streamlit, Pandas, Matplotlib, Seaborn, COVID-19 India API
+   • GitHub: github.com/ananya-codes/covid-dashboard
+
+3. LIBRARY MANAGEMENT SYSTEM (September 2022 - November 2022)
+   • Developed a console-based library management system in Python
+   • Features: Book issue/return, user management, fine calculation, search functionality
+   • Used MySQL database for data persistence and file handling for records
+   • Tech Stack: Python, MySQL, Object-Oriented Programming
+   • GitHub: github.com/ananya-codes/library-system
+
+4. WEATHER PREDICTION USING MACHINE LEARNING (January 2023 - March 2023)
+   • Built a weather prediction model using historical weather data
+   • Implemented Linear Regression and evaluated model performance (RMSE: 2.3)
+   • Preprocessed data using Pandas and NumPy
+   • Tech Stack: Python, Scikit-learn, Pandas, NumPy, Matplotlib
+   • GitHub: github.com/ananya-codes/weather-ml
+
+═══════════════════════════════════════════════════════════════════
+CERTIFICATIONS & ONLINE COURSES
+═══════════════════════════════════════════════════════════════════
+✓ Python for Everybody Specialization - Coursera (University of Michigan) - 2023
+✓ Complete Python Bootcamp: From Zero to Hero - Udemy - 2022
+✓ Introduction to SQL - DataCamp - 2023
+✓ Git and GitHub Bootcamp - Udemy - 2023
+✓ AWS Cloud Practitioner Essentials - AWS Training - 2024
+✓ Introduction to Machine Learning - Coursera - 2023
+
+═══════════════════════════════════════════════════════════════════
+ACHIEVEMENTS & EXTRACURRICULAR ACTIVITIES
+═══════════════════════════════════════════════════════════════════
+• Participated in Smart India Hackathon 2023 (Software Edition) - Reached finals
+• Won 2nd prize in "Code Sprint" coding competition at university level (2023)
+• Active member of University Coding Club (2021-2024)
+• Solved 150+ problems on LeetCode and 100+ on HackerRank (Python, SQL)
+• Volunteer at "Women in Tech" community meetups (2023-2024)
+• Technical blog writer on Medium - Published 5 articles on Python basics (500+ views)
+
+═══════════════════════════════════════════════════════════════════
+LANGUAGES
+═══════════════════════════════════════════════════════════════════
+• English (Fluent)
+• Hindi (Fluent)
+• Telugu (Native)
+
+═══════════════════════════════════════════════════════════════════
+ADDITIONAL INFORMATION
+═══════════════════════════════════════════════════════════════════
+• Notice Period: Immediate joiner (Fresher)
+• Expected Salary: ₹3.5-5 LPA (Negotiable based on role and learning opportunities)
+• Willing to relocate anywhere in India
+• Open to remote work opportunities
+• Available for full-time positions
+• Preferred work environment: Collaborative, learning-focused, growth-oriented startup 
+  or product company
+
+Personal Interests:
+• Coding and problem-solving
+• Reading tech blogs and staying updated with latest technologies
+• Participating in online coding competitions
+• Learning new programming languages and frameworks
+• Photography and creative writing
+
+Career Goals:
+• Build strong foundation in software development best practices
+• Contribute to meaningful projects that solve real-world problems
+• Learn from experienced mentors and senior developers
+• Grow into a full-stack developer role within 2-3 years
+• Eventually specialize in backend development or data engineering
+
+═══════════════════════════════════════════════════════════════════
+
+References available upon request

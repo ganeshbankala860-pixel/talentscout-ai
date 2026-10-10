@@ -1,0 +1,60 @@
+Senior Python Developer - TalentScout AI
+
+ABOUT US
+We're building the future of recruitment technology. Join our team to help shape how companies find and hire talent using cutting-edge AI.
+
+POSITION OVERVIEW
+We're seeking a Senior Python Developer with strong backend development experience to help build our AI-powered recruitment platform. You'll work on scalable APIs, integrate with LLM providers, and help us revolutionize the hiring process.
+
+REQUIRED QUALIFICATIONS
+• 5+ years of professional Python development experience
+• Expert knowledge of Django or FastAPI frameworks
+• Strong experience with PostgreSQL and database optimization
+• Experience building and consuming REST APIs
+• Proficiency with Docker and containerization
+• AWS cloud services experience (EC2, S3, RDS, Lambda)
+• Experience with Git and modern development workflows
+• Strong understanding of software design patterns and best practices
+
+PREFERRED QUALIFICATIONS
+• Experience with AI/ML integration or LLM APIs (OpenAI, Anthropic, etc.)
+• Knowledge of React or modern frontend frameworks
+• Experience with microservices architecture
+• Kubernetes or container orchestration experience
+• Background in HR tech or recruitment software
+• Experience with Celery or similar task queues
+• Redis caching implementation experience
+
+RESPONSIBILITIES
+• Design and develop scalable backend services and APIs
+• Integrate AI/LLM capabilities into the platform
+• Optimize database queries and application performance
+• Write clean, maintainable, well-tested code
+• Collaborate with frontend and product teams
+• Participate in code reviews and technical discussions
+• Mentor junior developers
+• Contribute to technical architecture decisions
+
+TECHNICAL STACK
+• Backend: Python, FastAPI, Django
+• Database: PostgreSQL, Redis
+• Cloud: AWS (EC2, S3, Lambda, RDS)
+• Infrastructure: Docker, Kubernetes, Terraform
+• AI: OpenAI API, Anthropic Claude, Groq
+• Version Control: Git, GitHub
+• CI/CD: GitHub Actions, Jenkins
+
+WHAT WE OFFER
+• Competitive salary and equity package
+• Remote-first culture with flexible hours
+• Health, dental, and vision insurance
+• Professional development budget
+• Latest tech equipment
+• Opportunity to work with cutting-edge AI technology
+• Fast-growing startup environment
+
+LOCATION
+Remote (US-based preferred, open to global for exceptional candidates)
+
+HOW TO APPLY
+Send your resume and a brief cover letter explaining why you're excited about AI-powered recruitment technology.

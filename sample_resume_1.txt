@@ -1,0 +1,50 @@
+John Doe
+Senior Python Developer
+john.doe@email.com | +1-555-0123 | LinkedIn: linkedin.com/in/johndoe
+
+PROFESSIONAL SUMMARY
+Experienced Senior Python Developer with 6+ years of expertise in building scalable web applications, 
+REST APIs, and microservices. Strong background in Django, Flask, PostgreSQL, Docker, and AWS cloud services.
+Proven track record of leading development teams and delivering high-quality software solutions.
+
+TECHNICAL SKILLS
+- Languages: Python, JavaScript, SQL, Bash
+- Frameworks: Django, Flask, FastAPI, React
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- Cloud: AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes
+- Tools: Git, Jenkins, pytest, Celery
+- Others: REST APIs, Microservices, Agile/Scrum
+
+WORK EXPERIENCE
+
+Senior Python Developer | TechCorp Inc. | 2021 - Present
+- Led team of 5 developers in building microservices architecture serving 1M+ users
+- Designed and implemented REST APIs using Django REST Framework and FastAPI
+- Optimized database queries reducing response time by 40%
+- Deployed containerized applications using Docker and Kubernetes on AWS
+- Implemented CI/CD pipelines using Jenkins and GitHub Actions
+
+Python Developer | StartupXYZ | 2019 - 2021
+- Built e-commerce platform backend using Django and PostgreSQL
+- Developed payment integration with Stripe and PayPal APIs
+- Created automated testing suite achieving 85% code coverage
+- Collaborated with frontend team to deliver responsive web applications
+- Mentored junior developers and conducted code reviews
+
+Junior Python Developer | CodeWorks | 2018 - 2019
+- Developed internal tools and automation scripts in Python
+- Maintained legacy Django applications
+- Participated in agile development process
+
+EDUCATION
+Bachelor of Science in Computer Science | State University | 2018
+- GPA: 3.7/4.0
+- Relevant coursework: Data Structures, Algorithms, Database Systems, Web Development
+
+CERTIFICATIONS
+- AWS Certified Developer - Associate (2022)
+- Python Institute PCAP Certification (2020)
+
+PROJECTS
+- Open Source Contributor: Django, Flask (200+ contributions)
+- Personal Project: AI-powered job matching platform using NLP and machine learning

@@ -1,0 +1,227 @@
+VIKRAM SINGH
+Data Engineer | Big Data Specialist
+
+📧 Email: vikram.singh.data@gmail.com
+📱 Phone: +91-9123456789
+📱 Alternate: +91-8123456789
+🔗 LinkedIn: linkedin.com/in/vikramsingh-dataengineer
+💻 GitHub: github.com/vikram-data-pro
+📍 Location: Gurgaon, Haryana, India (Open to relocation)
+🌐 Portfolio: vikramsingh-data.github.io
+
+═══════════════════════════════════════════════════════════════════
+
+PROFESSIONAL SUMMARY
+═══════════════════════════════════════════════════════════════════
+Results-driven Data Engineer with 5+ years of experience designing, building, and 
+maintaining large-scale data pipelines and ETL processes. Expert in Python, Apache Spark, 
+Kafka, and cloud data platforms (AWS, GCP). Proven track record of processing terabytes 
+of data daily, optimizing data workflows by 70%, and enabling data-driven decision-making 
+across organizations. Strong problem-solving skills with experience in both batch and 
+real-time data processing. Passionate about building scalable, reliable data infrastructure 
+that powers business intelligence and machine learning initiatives.
+
+═══════════════════════════════════════════════════════════════════
+TECHNICAL EXPERTISE
+═══════════════════════════════════════════════════════════════════
+Programming:              Python (Expert), SQL (Expert), Scala, Java, Bash scripting
+Big Data Technologies:    Apache Spark (PySpark, Spark SQL), Apache Kafka, Apache Airflow,
+                          Apache Flink, Hadoop (HDFS, MapReduce), Hive, Presto
+ETL Tools:                Apache Airflow, Apache NiFi, Talend, AWS Glue, Informatica
+Databases:                PostgreSQL, MySQL, MongoDB, Cassandra, Snowflake, Redshift,
+                          BigQuery, DynamoDB, ClickHouse
+Data Warehousing:         Snowflake, Amazon Redshift, Google BigQuery, Azure Synapse
+Cloud Platforms:          AWS (S3, EMR, Glue, Lambda, Kinesis, Athena, Redshift),
+                          Google Cloud (BigQuery, Dataflow, Pub/Sub, Cloud Storage),
+                          Azure (Data Factory, Databricks, Synapse)
+Workflow Orchestration:   Apache Airflow (Advanced), Luigi, Prefect, AWS Step Functions
+Streaming:                Apache Kafka, AWS Kinesis, Google Pub/Sub, Apache Flink
+Data Formats:             Parquet, Avro, ORC, JSON, CSV, Protocol Buffers
+Python Libraries:         Pandas, NumPy, PySpark, SQLAlchemy, Apache Arrow, Great Expectations
+Version Control:          Git, GitHub, GitLab, Bitbucket
+Containerization:         Docker, Kubernetes
+CI/CD:                    Jenkins, GitLab CI, GitHub Actions
+Monitoring:               Prometheus, Grafana, CloudWatch, Datadog, ELK Stack
+BI Tools:                 Tableau, Power BI, Looker, Apache Superset
+
+Data Quality & Testing:   Great Expectations, DBT (Data Build Tool), pytest, SQL-based testing
+Methodologies:            Agile/Scrum, DataOps, DevOps practices
+
+═══════════════════════════════════════════════════════════════════
+PROFESSIONAL EXPERIENCE
+═══════════════════════════════════════════════════════════════════
+
+DATA ENGINEER | DataPro Solutions Pvt Ltd | Gurgaon, India
+February 2021 - Present (3 years)
+
+Data Pipeline Development:
+• Designed and built 30+ scalable ETL pipelines using Apache Airflow and PySpark, 
+  processing 5TB+ data daily from multiple sources
+• Developed real-time data streaming pipelines using Apache Kafka and Spark Streaming 
+  for customer behavior analytics
+• Implemented incremental data loading strategies reducing processing time by 65%
+• Created data quality frameworks using Great Expectations, catching 200+ data issues 
+  proactively per month
+
+Cloud Data Infrastructure:
+• Architected data lake on AWS S3 with partitioned storage saving 40% on storage costs
+• Built serverless data processing workflows using AWS Lambda, Glue, and Step Functions
+• Migrated on-premise data warehouse to Snowflake, improving query performance by 10x
+• Implemented data lifecycle policies and archiving strategies saving $50K annually
+
+Performance Optimization:
+• Optimized Spark jobs reducing cluster costs by 45% through better resource allocation 
+  and code optimization
+• Tuned SQL queries in Redshift achieving 70% improvement in dashboard load times
+• Implemented data partitioning and bucketing strategies in Hive tables
+• Created materialized views and summary tables for frequently accessed metrics
+
+Data Governance & Quality:
+• Established data quality monitoring and alerting using custom Python frameworks
+• Implemented data lineage tracking and documentation using Apache Atlas
+• Created data catalogs and metadata management using AWS Glue Data Catalog
+• Ensured compliance with GDPR data privacy requirements
+
+Collaboration & Leadership:
+• Mentored 2 junior data engineers in PySpark and Airflow best practices
+• Collaborated with data scientists to deploy ML models into production pipelines
+• Worked with BI team to optimize data models for reporting and analytics
+• Participated in on-call rotation for data pipeline incidents
+
+Technologies: Python, PySpark, Apache Airflow, Kafka, AWS (S3, EMR, Glue, Redshift, Lambda), 
+Snowflake, PostgreSQL, Docker, Git, Tableau
+
+───────────────────────────────────────────────────────────────────
+
+DATA ENGINEER | Analytics Corp India | Bangalore, India
+June 2019 - January 2021 (1 year 8 months)
+
+• Built batch ETL pipelines using Python and Apache Spark for customer analytics platform
+• Developed data ingestion processes from various sources (APIs, databases, flat files) 
+  into data warehouse
+• Created automated data quality checks reducing manual validation time by 80%
+• Designed dimensional data models (star schema) for business intelligence reporting
+• Implemented slowly changing dimensions (SCD Type 2) for historical data tracking
+• Optimized BigQuery queries saving 30% on monthly cloud costs
+• Built monitoring and alerting system for data pipelines using CloudWatch and PagerDuty
+• Documented data architecture, pipelines, and best practices for the team
+
+Technologies: Python, Apache Spark, Google Cloud (BigQuery, Cloud Storage, Pub/Sub), 
+Apache Airflow, PostgreSQL, DBT, Looker
+
+───────────────────────────────────────────────────────────────────
+
+JUNIOR DATA ENGINEER | TechAnalytics Pvt Ltd | Noida, India
+July 2018 - May 2019 (11 months)
+
+• Assisted in building ETL pipelines using Python and SQL
+• Wrote complex SQL queries for data extraction and transformation
+• Created data validation scripts and monitoring dashboards
+• Worked on data migration projects from MySQL to PostgreSQL
+• Learned Spark and Airflow through hands-on projects
+• Participated in code reviews and team knowledge-sharing sessions
+
+Technologies: Python, SQL, MySQL, PostgreSQL, Apache Airflow (basics), Pandas
+
+═══════════════════════════════════════════════════════════════════
+EDUCATION
+═══════════════════════════════════════════════════════════════════
+Bachelor of Technology (B.Tech) in Computer Science
+Delhi Technological University (DTU), Delhi
+Graduated: May 2018 | CGPA: 8.6/10.0
+
+Relevant Coursework: Database Systems, Data Mining, Big Data Analytics, Cloud Computing,
+Distributed Systems, Machine Learning, Statistics
+
+═══════════════════════════════════════════════════════════════════
+CERTIFICATIONS
+═══════════════════════════════════════════════════════════════════
+✓ AWS Certified Data Analytics - Specialty (Valid: 2023-2026)
+✓ Google Cloud Professional Data Engineer (Valid: 2024-2027)
+✓ Databricks Certified Associate Developer for Apache Spark (2022)
+✓ Snowflake SnowPro Core Certification (2023)
+✓ Apache Airflow Fundamentals (Astronomer Certification, 2021)
+✓ MongoDB Certified Developer (2020)
+
+═══════════════════════════════════════════════════════════════════
+KEY PROJECTS
+═══════════════════════════════════════════════════════════════════
+
+REAL-TIME FRAUD DETECTION PIPELINE
+• Built end-to-end real-time data pipeline for fraud detection in financial transactions
+• Architecture: Kafka → Spark Streaming → Feature Store → ML Model → Alert System
+• Processes 50K+ transactions per minute with sub-second latency
+• Reduced false positives by 40% through improved feature engineering
+• Technologies: Kafka, Spark Streaming, Python, AWS, PostgreSQL, Redis
+
+CUSTOMER 360 DATA PLATFORM
+• Designed and implemented unified customer data platform integrating 15+ data sources
+• Built master data management (MDM) system with entity resolution
+• Created 100+ KPIs and metrics for marketing and product teams
+• Enabled personalized marketing campaigns increasing conversion by 25%
+• Technologies: PySpark, Airflow, Snowflake, DBT, AWS S3, Tableau
+
+DATA LAKE MIGRATION PROJECT
+• Led migration of 10TB data from on-premise Hadoop cluster to AWS S3 data lake
+• Designed optimal partitioning strategy and data organization
+• Implemented data cataloging and discovery using AWS Glue
+• Reduced infrastructure costs by 60% while improving query performance
+• Technologies: AWS S3, Glue, Athena, EMR, Python, Spark
+
+═══════════════════════════════════════════════════════════════════
+PUBLICATIONS & CONTRIBUTIONS
+═══════════════════════════════════════════════════════════════════
+• Technical blog on Medium: "Data Engineering Best Practices" (3K+ followers)
+• Published articles on Spark optimization, Airflow patterns, and cloud data architectures
+• Contributor to Apache Airflow project (5+ merged PRs)
+• Speaker at Bangalore Data Engineering Meetup: "Building Reliable Data Pipelines" (2022)
+• Created open-source Python library for data quality validation (200+ stars on GitHub)
+
+═══════════════════════════════════════════════════════════════════
+ACHIEVEMENTS
+═══════════════════════════════════════════════════════════════════
+• "Star Performer Award" for optimizing data costs by $120K annually (2023)
+• "Best Project Award" for real-time fraud detection system (2022)
+• Led successful Snowflake migration with zero data loss and minimal downtime (2021)
+• Recognized for mentoring and knowledge sharing within the team (2022)
+
+═══════════════════════════════════════════════════════════════════
+LANGUAGES
+═══════════════════════════════════════════════════════════════════
+• English (Fluent)
+• Hindi (Native)
+• Punjabi (Native)
+
+═══════════════════════════════════════════════════════════════════
+ADDITIONAL INFORMATION
+═══════════════════════════════════════════════════════════════════
+• Notice Period: 45 days (negotiable)
+• Current CTC: ₹18 LPA
+• Expected CTC: ₹22-26 LPA
+• Preferred Industries: E-commerce, FinTech, Healthcare, SaaS
+• Work Mode: Remote/Hybrid/Office (Flexible)
+• Open to relocation within India or abroad for the right opportunity
+
+Professional Interests:
+• Data Engineering best practices and design patterns
+• Stream processing and real-time analytics
+• Data quality and observability
+• Cloud-native data architectures
+• DataOps and data platform automation
+
+Personal Interests:
+• Contributing to open-source data engineering tools
+• Reading technical books (currently: "Designing Data-Intensive Applications")
+• Hiking and trekking
+• Photography
+• Teaching and mentoring aspiring data engineers
+
+Career Goals:
+• Lead data engineering teams and mentor engineers
+• Architect large-scale data platforms
+• Contribute more to open-source projects
+• Speak at major data engineering conferences
+
+═══════════════════════════════════════════════════════════════════
+
+References available upon request

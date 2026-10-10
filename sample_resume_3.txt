@@ -1,0 +1,54 @@
+Michael Chen
+Software Engineer
+m.chen@techmail.com | GitHub: github.com/mchen
+
+ABOUT
+Software Engineer with 8+ years of experience in enterprise software development.
+Expert in Python, Java, distributed systems, and cloud architecture. Led multiple
+successful projects from conception to deployment.
+
+CORE COMPETENCIES
+• Python, Java, C++, Go
+• Django, Spring Boot, FastAPI
+• Microservices Architecture
+• AWS, GCP, Azure
+• PostgreSQL, Cassandra, Kafka
+• Docker, Kubernetes, Terraform
+• CI/CD, DevOps practices
+
+PROFESSIONAL EXPERIENCE
+
+Lead Software Engineer | Enterprise Tech Corp | 2020 - Present
+• Architect and implement microservices-based solutions handling 10M+ requests/day
+• Lead team of 8 engineers across multiple time zones
+• Design cloud-native applications on AWS using ECS, Lambda, and RDS
+• Implemented event-driven architecture using Apache Kafka
+• Reduced infrastructure costs by 35% through optimization
+• Established coding standards and best practices
+
+Senior Software Engineer | FinTech Innovations | 2018 - 2020
+• Developed high-frequency trading systems in Python and Java
+• Built real-time data processing pipelines
+• Implemented security best practices for financial applications
+• Collaborated with data science team on ML model deployment
+
+Software Engineer | Global Systems Inc | 2016 - 2018
+• Developed enterprise web applications using Django
+• Created RESTful APIs for mobile applications
+• Performed code reviews and mentored junior developers
+• Participated in on-call rotation for production support
+
+EDUCATION
+Master of Science in Computer Science | Tech Institute | 2016
+Bachelor of Engineering in Software Engineering | Engineering University | 2014
+
+CERTIFICATIONS & AWARDS
+• AWS Solutions Architect Professional (2023)
+• Google Cloud Professional Cloud Architect (2022)
+• Certified Kubernetes Administrator (2021)
+• Employee of the Year Award (2021)
+
+PUBLICATIONS & SPEAKING
+• Speaker at PyCon 2023: "Building Scalable Systems with Python"
+• Technical blog with 10K+ monthly readers
+• Contributor to multiple open-source projects
